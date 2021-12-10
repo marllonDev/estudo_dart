@@ -1,2 +1,2 @@
 # estudo_dart
- Exemplos simples sobre os conceitos de dart.
+ Aqui contem vários exemplos que vai dos fundamentos até POO ótimos para estudo, Enjoy!!
