@@ -2,7 +2,6 @@ void main() {
   // Operadores Incremento e Decremento
 
   int a = 3;
-  int b = 4;
 
   a++; //Unário/PostFix
   --a; //Unário/PreFix

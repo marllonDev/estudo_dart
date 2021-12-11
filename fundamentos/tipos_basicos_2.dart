@@ -44,7 +44,7 @@ void main() {
 //----------------------------------------------
 //Set
 //Set é usado com "{}" e escrito como List, sem nenhuma key.
-//obs; Set não aceita repetição, List sim.
+//obs: Set não aceita repetição, List sim.
   var times = {'Vasco', 'Flamengo', 'Fortaleza', 'São Paulo'};
   print(times is Set); //verificão de tipo
   print(times.add('Palmeiras')); //add um novo elemento
