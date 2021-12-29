@@ -9,7 +9,7 @@ class Data {
   //   this.mes = mes;
   //   this.ano = ano;
   // }
-//aqui mostra um jeito mais facil de fazer um construtor que terá o mesmo resultado que nas linhas acima.
+//aqui mostra um jeito mais fácil de fazer um construtor que terá o mesmo resultado que nas linhas acima.
   Data([this.dia = 1, this.mes = 1, this.ano = 2000]);//opcionais
 
   // Named Constructors // Contrutores nomeados

@@ -1,7 +1,7 @@
 import 'dart:math';
 
 void main() {
-  somaComPrint(2, 3); //funcão chamada da linha 13 com parâmentros.
+  somaComPrint(2, 3); //função chamada da linha 13 com parâmetros.
 
   int c = 4;
   int d = 5;

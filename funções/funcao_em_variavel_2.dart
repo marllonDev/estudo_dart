@@ -3,7 +3,7 @@ void main() {
   var adicao = (int a, int b) {
     return a + b;
   };
-//aqui foi feito uma arrow function, o resultado é o mesmo que de cima mas é uma sentença mais curta e simples, o "return" está inplícito na arrow function.
+//aqui foi feito uma arrow function, o resultado é o mesmo que de cima mas é uma sentença mais curta e simples, o "return" está implícito na arrow function.
   var subtracao = (int a, int b) => a - b;
   var multiplicacao = (int a, int b) => a * b;
   var divisao = (int a, int b) => a / b;

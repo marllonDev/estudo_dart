@@ -15,6 +15,6 @@ int somar(int a, int b) {
 int somarNumerosAleatorios() {
   int a = Random().nextInt(11);
   int b = Random().nextInt(11);
-  print('Os números sorteadosforam $a e $b');
+  print('Os números sorteados foram $a e $b');
   return a + b;
 }

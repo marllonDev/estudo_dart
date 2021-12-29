@@ -3,4 +3,4 @@ void main() {
     print(a);
   }
 }
-//aqui o desafio era adiconar '#' até ter 6, mas sem usar nenhum número.
+//aqui o desafio era adicionar '#' até ter 6, mas sem usar nenhum número.
